@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1762639794492
+current_stage: None
+description: null
+last_updated_timestamp: 1762639794492
+name: WineQualityModel
+run_id: 1bedb31755124fd881ad9122875c069d
+run_link: null
+source: file://C:\Users\leidi_h6abksx\OneDrive\Desktop\MLFLOW_FINAL\mlruns/867170781680112834/1bedb31755124fd881ad9122875c069d/artifacts/model
+status: READY
+status_message: null
+storage_location: file://C:\Users\leidi_h6abksx\OneDrive\Desktop\MLFLOW_FINAL\mlruns/867170781680112834/1bedb31755124fd881ad9122875c069d/artifacts/model
+user_id: null
+version: 1

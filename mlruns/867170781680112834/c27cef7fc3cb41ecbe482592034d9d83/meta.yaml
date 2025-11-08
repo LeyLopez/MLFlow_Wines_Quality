@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\leidi_h6abksx\OneDrive\Desktop\MLFLOW_FINAL\mlruns/867170781680112834/c27cef7fc3cb41ecbe482592034d9d83/artifacts
+end_time: 1762639821387
+entry_point_name: ''
+experiment_id: '867170781680112834'
+lifecycle_stage: active
+run_id: c27cef7fc3cb41ecbe482592034d9d83
+run_name: traveling-goat-878
+run_uuid: c27cef7fc3cb41ecbe482592034d9d83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762639808287
+status: 3
+tags: []
+user_id: leidi_h6abksx
